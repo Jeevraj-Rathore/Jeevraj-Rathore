@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Java, Python, DSA, Cloud and DevOps.**
+- 🌱 I’m currently learning **Java, Python, GoLang, Cloud and DevOps.**
 
 - 👯 I’m willing to contribute on **OpenSource Projects**
 
