@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Java, Python, GoLang, Cloud and DevOps.**
+- 🌱 I’m currently learning **Python, Linux, Cloud Computing and DevOps.**
 
 - 👯 I’m willing to contribute on **OpenSource Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jeevraj2324@gmail.com**
 
-- ⚡ Fun fact **I love playing Basketball and also loves to do Calisthenics workout.**
+- ⚡ Fun fact **I love playing Basketball.**
 
 ## 🚀 Languages and Tools:
 
