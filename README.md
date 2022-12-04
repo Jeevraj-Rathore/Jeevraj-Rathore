@@ -19,14 +19,14 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>    
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href=https://go.dev/ target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-    <a href=https://www.php.net/ target="_blank"> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> </a>   
+<p align="left">     
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <!-- <a style="padding-right:8px;" href=https://go.dev/ target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a> --> 
+    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> --> 
+    <!-- <a href=https://www.php.net/ target="_blank"> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> </a> -->   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href=https://github.com/ target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/000000/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png"/> </a> 
+    <!-- <a href=https://github.com/ target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/000000/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png"/> </a> --> 
     <a href=https://www.docker.com/ target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>
     <a href=https://aws.amazon.com/ target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href=https://cloud.google.com/ target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/> </a>
@@ -53,8 +53,6 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jeevraj-Rathore&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
