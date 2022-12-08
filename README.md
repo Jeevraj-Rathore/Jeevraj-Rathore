@@ -99,40 +99,40 @@
 
 <br/>
 <p align="center">
-<a href="https://github.com/alsiam/alsiam">
+<a href="https://github.com/Jeevraj-Rathore/Jeevraj-Rathore">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevraj-Rathore&repo=Jeevraj-Rathore&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/alsiam/alfolio">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<a href="https://github.com/Jeevraj-Rathore/Python">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevraj-Rathore&repo=Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/alsiam/problem-solving">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<a href="https://github.com/Jeevraj-Rathore/JAVA">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevraj-Rathore&repo=JAVA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/alsiam/alsiam.github.io">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<a href="https://github.com/Jeevraj-Rathore/Python-100-Days-Of-Code">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevraj-Rathore&repo=Python-100-Days-Of-Code&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Jeevraj-Rathore?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/Jeevraj-Rathore">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevraj-Rathore&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Jeevraj-Rathore"><img alt="Jeevraj Rathore's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Jeevraj-Rathore&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Jeevraj-Rathore"><img alt="Jeevraj Rathore's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jeevraj-Rathore&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p></p>
