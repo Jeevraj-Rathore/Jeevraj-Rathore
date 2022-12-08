@@ -12,14 +12,15 @@
 </p>
 
 
-<a href="https://gpvc.arturio.dev/Jeevraj-Rathore"><img src="https://gpvc.arturio.dev/Jeevraj-Rathore" align="right" alt="Visits"></a>
-
+<a href="https://gpvc.arturio.dev/Jeevraj-Rathore"><img src="https://gpvc.arturio.dev/Jeevraj-Rathore" align="center" alt="Visits"></a>
+<!--
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+-->
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Jeevraj Rathore</a></b>
+                <b><a target="_blank" href="https://linkedin.com/in/jeevraj-rathore-29088a217">Jeevraj Rathore</a></b>
         </samp>
 </h3>
 <p align="center">
@@ -99,7 +100,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/alsiam/alsiam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevraj-Rathore&repo=Jeevraj-Rathore&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/alsiam/alfolio">
