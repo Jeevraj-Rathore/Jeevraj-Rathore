@@ -73,7 +73,7 @@
     <p align="center">
         <p>Find me on</p>
   
-  <a href="https://linkedin.com/in/jeevraj-rathore-29088a217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeevraj"/></a><a href="https://dev.to/alsiam" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" /></a> <a href="https://twitter.com/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://instagram.com/saifalsiam" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
+  <a href="https://linkedin.com/in/jeevraj-rathore-29088a217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeevraj"/></a><a href="https://instagram.com/jeevraj2324" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
     <a href="https://facebook.com/alsiam.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  /></a> 
     </p>
     <br />
