@@ -8,7 +8,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-  <a href="https://github.com/Jeevraj-Rathore"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;DevOps%20Enthusiast;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Jeevraj-Rathore"><img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Enthusiast;Make%20it%20work,%20make%20it%20right;Self%20Taught%20Programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -28,7 +28,7 @@
         <samp>
           <a href="https://www.google.com/search?q=Jeevraj+Rathore">「 Google Me 」</a>
                 <br>
-                「 I am a DevOps learner from <b>India</b> 」
+                「 I am a DevOps Enthusiast from <b>India</b> 」
                 <br>
                 <br>
           <br><br>
@@ -95,7 +95,7 @@
 <!-- My top Open Sources Projects -->
 <!-- _________________________________________________________________________________________________ -->
 
-## 📘 My Top Open Source Projects -
+## 📘 My Repositories -
 
 <br/>
 <p align="center">
@@ -136,4 +136,4 @@
   <br/>
 </a>
 <p></p>
-<a href="https://github.com/Jeevraj-Rathore"><img alt="Jeevraj Rathore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jeevraj-Rathore&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<!--<a href="https://github.com/Jeevraj-Rathore"><img alt="Jeevraj Rathore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jeevraj-Rathore&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>-->
