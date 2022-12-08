@@ -47,7 +47,7 @@
                         src="https://img.shields.io/badge/-Linux-61DBFB?style=for-the-badge&labelColor=black&logo=linux&logoColor=61DBFB">
         </a>
         </a>
-           <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Git"
+           <a href="https://github.com/Jeevraj-Rathore?tab=repositories" target="_blank"><img alt="Git"
                         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         </a>
         </a>
@@ -64,7 +64,7 @@
                         src="https://img.shields.io/badge/Kubernetes-4EA94B?style=for-the-badge&logo=kubernetes&logoColor=white">
         </a>
         </a>
-        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Vs Code"
+        <a href="https://github.com/Jeevraj-Rathore?tab=repositories" target="_blank"><img alt="Vs Code"
                         src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </p>
 
