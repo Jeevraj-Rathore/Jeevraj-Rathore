@@ -73,8 +73,8 @@
     <p align="center">
         <p>Find me on</p>
   
-  <a href="https://linkedin.com/in/jeevraj-rathore-29088a217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeevraj"/></a><a href="https://instagram.com/jeevraj2324" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" /></a> 
-    <a href="https://facebook.com/alsiam.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  /></a> 
+  <a href="https://linkedin.com/in/jeevraj-rathore-29088a217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jeevraj"/></a><a href="https://instagram.com/jeevraj2324" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jeevraj" /></a> 
+    <a href="https://facebook.com/profile.php?id=100011917325026" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="jeevraj"  /></a> 
     </p>
     <br />
     <!-- Programmer Gif Image -->
