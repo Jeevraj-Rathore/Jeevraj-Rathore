@@ -85,7 +85,7 @@
 
 ✌️ &emsp;Enjoy doing programming and sharing knowledge<br/><br/>
 ❤️ &emsp;Love to write code and learning new technologies<br/><br/>
-📧 &emsp;Reach me anytime: jeevaj2324@gmail.com<br/><br/>
+📧 &emsp;Reach me anytime: jeevraj2324@gmail.com<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/Jeevraj-Rathore/Jeevraj-Rathore/issues)
 
 <p><br></p>
