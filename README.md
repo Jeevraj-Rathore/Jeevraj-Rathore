@@ -11,8 +11,9 @@
   <a href="https://github.com/Jeevraj-Rathore"><img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Enthusiast;Make%20it%20work,%20make%20it%20right;Self%20Taught%20Programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-
+<!--
 <a href="https://gpvc.arturio.dev/Jeevraj-Rathore"><img src="https://gpvc.arturio.dev/Jeevraj-Rathore" align="center" alt="Visits"></a>
+-->
 <!--
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 -->
